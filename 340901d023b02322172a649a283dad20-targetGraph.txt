@@ -1,0 +1,20 @@
+Target dependency graph (8 targets)
+HolotroutUITests in Holotrout, depends on:
+Holotrout in Holotrout (explicit)
+HolotroutTests in Holotrout, depends on:
+Holotrout in Holotrout (explicit)
+_NumericsShims in swift-numerics, no dependencies
+RealModule in swift-numerics, depends on:
+_NumericsShims in swift-numerics (explicit)
+RealModule in swift-numerics, depends on:
+RealModule in swift-numerics (explicit)
+_NumericsShims in swift-numerics (explicit)
+Algorithms in swift-algorithms, depends on:
+RealModule in swift-numerics (explicit)
+Algorithms in swift-algorithms, depends on:
+Algorithms in swift-algorithms (explicit)
+RealModule in swift-numerics (explicit)
+Holotrout in Holotrout, depends on:
+HolotroutUITests in Holotrout (explicit)
+HolotroutTests in Holotrout (explicit)
+Algorithms in swift-algorithms (explicit)
